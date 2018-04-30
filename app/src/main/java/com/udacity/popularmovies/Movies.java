@@ -29,12 +29,12 @@ public class Movies {
         this.poster = poster;
     }
 
-    public String getOverview() {
-        return overview;
+    public String getPlot() {
+        return plot;
     }
 
-    public void setOverview(String overview) {
-        this.overview = overview;
+    public void setPlot(String plot) {
+        this.plot = plot;
     }
 
     public Double getRating() {
