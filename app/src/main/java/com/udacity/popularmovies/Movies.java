@@ -9,7 +9,7 @@ import java.util.Date;
 public class Movies {
     private String title;
     private String poster;
-    private String overview; // ie. plot
+    private String plot; // ie. overview
     private Double rating; // ie. vote_average
     private Date release;
 

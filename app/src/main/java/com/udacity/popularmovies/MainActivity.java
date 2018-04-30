@@ -3,6 +3,8 @@ package com.udacity.popularmovies;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.squareup.picasso.Picasso;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -10,4 +12,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
 }
